@@ -1,0 +1,185 @@
+body{
+	margin : 0;
+	background-color : cyan;
+}
+nav{
+	position : fixed;
+	top : 0;
+	background-color :  black;
+	width : 100%;
+	padding : 10px;
+	box-shadow : 0 0 5px 3px black;
+}
+.title{
+	display : inline-block;
+	color : white;
+	font-family : rockwell;
+	position : relative;
+	top : -15px;
+	left : 10px;
+}
+.hdt{
+	display : inline-block;
+}
+
+.l1{
+	position : relative;
+	top : 10px;
+	right : 5px;
+	display : inline-block;
+	height : 7vh;
+	width : 10vh;
+}
+.l2{
+	position : relative;
+	top : 30px;
+	left : 10px;
+	display : inline-block;
+	height : 10vh;
+	width : 10vh;
+}
+.nvi{
+	float : right;
+	position : relative;
+	top : 55px;
+	right : 50px
+}
+a{
+	border-radius : 5px;
+	color: white;
+	text-decoration : none;
+	background-color : black;
+	padding : 20px;
+	font-family : verdana;
+	font-weight : bold;
+}
+.ac{
+	background-color : aquamarine;
+	padding : 20px;
+	font-weight : bold;
+	color: black;
+}
+
+a:hover{
+	color : black;
+	background-color : cyan;
+}
+.content{
+	margin-top : 9%;
+}
+.vhd{
+	display: inline-block;
+	padding: 25px;
+	margin-left: 80vh;
+	background-color: bisque;
+	border: 1px solid bisque;
+	border-radius: 15px;
+	font-family: Verdana;
+	font-size: 30px;
+	font-weight: bold;
+}
+.vcon{
+	margin-left: 20vh;
+	margin-right: 20vh;
+	line-height: 2;
+	text-align: center;
+	font-family: rockwell;
+	font-size: 25px;
+	font-weight: 200;
+	background-color: aquamarine;
+	border: 1px solid aquamarine;
+	border-radius: 15px;
+	padding: 20px;
+}
+.mhd{
+	display: inline-block;
+	padding: 25px;
+	margin-left: 80vh;
+	background-color: bisque;
+	border: 1px solid bisque;
+	border-radius: 15px;
+	font-family: Verdana;
+	font-size: 30px;
+	font-weight: bold;
+}
+.mcon{
+	margin-left: 20vh;
+	margin-right: 20vh;
+	line-height: 2;
+	text-align: center;
+	font-family: rockwell;
+	font-size: 25px;
+	font-weight: 200;
+	background-color: aquamarine;
+	border: 1px solid aquamarine;
+	border-radius: 15px;
+	padding: 20px;
+}
+.phd{
+	display: inline-block;
+	padding: 35px;
+	margin-left: 85vh;
+	background-color: bisque;
+	border: 1px solid bisque;
+	border-radius: 15px;
+	font-family: Verdana;
+	font-size: 30px;
+	font-weight: bold;
+}
+.pcon{
+	margin-left: 20vh;
+	margin-right: 20vh;
+	line-height: 2;
+	text-align: center;
+	font-family: rockwell;
+	font-size: 25px;
+	font-weight: 200;
+	background-color: aquamarine;
+	border: 1px solid aquamarine;
+	border-radius: 15px;
+	padding: 20px;
+}
+.ohd{
+	display: inline-block;
+	padding: 35px;
+	margin-left: 85vh;
+	background-color: bisque;
+	border: 1px solid bisque;
+	border-radius: 15px;
+	font-family: Verdana;
+	font-size: 30px;
+	font-weight: bold;
+}
+.ord{
+	margin-left: 20vh;
+	margin-right: 20vh;
+	line-height: 2;
+	text-align: center;
+	font-family: rockwell;
+	font-size: 25px;
+	font-weight: 200;
+	background-color: aquamarine;
+	border: 1px solid aquamarine;
+	border-radius: 15px;
+	padding: 20px;
+}
+.onum{
+	text-align: center;
+	font-family: rockwell;
+	font-size: 25px;
+	margin-right: 10vh;
+}
+.one{
+	margin-right: 75vh;
+	margin-left: 30vh;
+	text-align: left;
+}
+.two{
+	margin-right: 50vh;
+	margin-left: 30vh;
+	text-align: left;
+}
+.three{
+	margin-left: 30vh;
+	text-align: left;
+}
